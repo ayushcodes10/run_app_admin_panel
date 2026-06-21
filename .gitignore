@@ -26,3 +26,14 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Claude Code / claude-flow / ruflo tooling (local only)
+.claude/
+.claude-flow/
+.swarm/
+.hive-mind/
+.ruflo/
+.roo/
+.mcp.json
+CLAUDE.md
+**/.claude-flow/
